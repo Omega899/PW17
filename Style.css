@@ -1,0 +1,55 @@
+/* Stile generale della pagina */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Contenuto principale */
+main {
+    padding: 20px;
+}
+
+/* Sezioni */
+section {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Titoli */
+h2 {
+    color: green;
+}
+
+/* Bottone download */
+.btn {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Effetto quando passi sopra col mouse */
+.btn:hover {
+    background-color: darkgreen;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
